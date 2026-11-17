@@ -1,6 +1,6 @@
 [![make.fun tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/c/tiny-chess-01)
-[![rank](https://make.fun/badge/tiny-chess-01/SHADOWCELL/tiny-chess-4k/rank.svg)](https://make.fun/c/tiny-chess-01)
-[![reward](https://make.fun/badge/tiny-chess-01/SHADOWCELL/tiny-chess-4k/reward.svg)](https://make.fun/c/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/Shadowcell05/tiny-chess-4k/rank.svg)](https://make.fun/c/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/Shadowcell05/tiny-chess-4k/reward.svg)](https://make.fun/c/tiny-chess-01)
 
 # Tiny Chess — a 4 KB chess engine for make.fun tiny-chess-01
 
